@@ -76,7 +76,7 @@ plt.show()
 ```
 
 ### Results
-![Likelihood of Skills Requested in US Job Postings](image.png)
+![Likelihood of Skills Requested in US Job Postings](2_Skill.png)
 
 ### Insights:
 - SQL is the most requested skill for Data Analysts and Data Scientists, with it in over half the job postings for both roles. For Data Engineers, Python is the most sought-after skill, appearing in 68% of job postings.
@@ -101,7 +101,7 @@ plt.show()
 ```
 
 ### Results
-![Trending Top Skills for Data Analysts in the US](image.png)
+![Trending Top Skills for Data Analysts in the US](3_Skills.png)
 
 Bar graph visualizing the trending top skills for data analysts in the US in 2023.
 
@@ -125,7 +125,7 @@ plt.show()
 ```
 
 Results
-![Salary Distributions of Data Jobs in the US](image.png)
+![Salary Distributions of Data Jobs in the US](4_Salary.png)
 
 Box plot visualizing the salary distributions for the top 6 data job titles.
 
@@ -159,7 +159,7 @@ Results
 
 Here's the breakdown of the highest-paid & most in-demand skills for data analysts in the US:
 
-![Highest Paid Skills for Data Analysts in the US](image.png)
+![Highest Paid Skills for Data Analysts in the US](4_Data.png)
 
 Two separate bar graphs visualizing the highest paid skills and most in-demand skills for data analysts in the US.
 
@@ -187,7 +187,7 @@ plt.show()
 
 Results
 
-![Most Optimal Skills for Data Analyst in the US](image.png)
+![Most Optimal Skills for Data Analyst in the US](5_Optimal.png)
 
 A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in the US.
 
@@ -221,7 +221,7 @@ plt.show()
 
 Results
 
-![Most Optimal Skills for Data Analyst in the US](image.png)
+![Most Optimal Skills for Data Analyst in the US](5_OptimalData.png)
 
 A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in the US with color labels for technology.
 
